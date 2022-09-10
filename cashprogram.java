@@ -1,7 +1,7 @@
 public class cashprogram{
 
 public static void main (String[] args){
-	int cashbox1 = 4000;
+	int cashbox1 = 6000;
 	double  cashbox2 = 1000;
 	double cashbox3	= 1000;
 	
